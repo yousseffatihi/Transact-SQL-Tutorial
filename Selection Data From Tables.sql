@@ -2,6 +2,8 @@ SELECT * FROM PRODUCT
 --------------------------
 SELECT * FROM SALES
 --------------------------
+SELECT * FROM CUSTOMER
+--------------------------
 SELECT * FROM PRODUCT WHERE ID_PRODUCT = '001'
 --------------------------
 SELECT NAME FROM PRODUCT WHERE ID_PRODUCT = '008'
