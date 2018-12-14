@@ -1,0 +1,1 @@
+SELECT * FROM Customer WHERE ID_Customer LIKE '%F'
